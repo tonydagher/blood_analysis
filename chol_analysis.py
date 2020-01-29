@@ -17,6 +17,10 @@ def cholesterol_analysis():
         print("The level is {}".format(answer))
 
 
+def new_feature():
+    pass
+
+
 def interface():
     choice = 0
     while True:
