@@ -30,9 +30,9 @@ def cholesterol_analysis():
         print("The level is {}.".format(answer))
 
 
-
 def new_feature():
     pass
+
 
 def name_function():
     first_name = input("First name")
@@ -50,7 +50,6 @@ def interface():
             return
         elif choice == "1":
             cholesterol_analysis()
-
 
 
 if __name__ == "__main__":
